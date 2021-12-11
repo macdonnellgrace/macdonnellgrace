@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Grace (@macdonnellgrace)
+- ✨ Hi, I’m Grace (@macdonnellgrace)
 - Currently studying computer science
 - Interested in cybersecurity & hardware repair
 - Languages: Python, C, HTML, CSS
