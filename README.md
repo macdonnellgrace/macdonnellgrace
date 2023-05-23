@@ -1,7 +1,7 @@
 ✨ Hi, I’m Grace (@macdonnellgrace) ✨
 - Currently studying computer science
 - Interested in cybersecurity & hardware repair
-- Languages: Python, C, HTML, CSS
+- Languages: Python, C, HTML, CSS, Java, Javascript, PHP
 
 <!---
 macdonnellgrace/macdonnellgrace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
