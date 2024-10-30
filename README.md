@@ -1,6 +1,5 @@
 Hi, I’m Grace (@macdonnellgrace)
 - Currently studying computer science TU856
-- Interested in cybersecurity & administration
 - Languages: Python, C, HTML, CSS, Java, Javascript, PHP
 
 <!---
